@@ -22,7 +22,7 @@ Follow these steps to deploy the Two-Tier architecture:
    ```bash
    git clone https://github.com/praveen28-devops
    
-   cd AWS three tier infrastructure
+   cd AWS-three-tier
    ```
 
 2. **Plan and Apply:**
