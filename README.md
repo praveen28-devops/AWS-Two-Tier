@@ -1,5 +1,6 @@
 # Two-Tier AWS Infrastructure with Terraform
 
+![Infrastructure Diagram](./Infrastructure.png)
 
 
 ## Overview
